@@ -1,0 +1,19 @@
+{
+  "@@locale": "en",
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "Title text shown in the AppBar of the home view"
+  },
+  "markAllRead": "Mark all read",
+  "@markAllRead": {
+    "description": "Button text of the home view"
+  },
+  "featured": "Featured",
+  "@featured": {
+    "description": "Title text of featured news list"
+  },
+  "latestNews": "Latest News",
+  "@latestNews": {
+    "description": "Title text of latest news list"
+  }
+}
